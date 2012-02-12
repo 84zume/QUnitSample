@@ -1,0 +1,5 @@
+C:\Develop\QUnitSample\QUnitSample\bin\QUnitSample.dll
+C:\Develop\QUnitSample\QUnitSample\bin\QUnitSample.pdb
+C:\Develop\QUnitSample\QUnitSample\obj\Debug\QUnitSample.csprojResolveAssemblyReference.cache
+C:\Develop\QUnitSample\QUnitSample\obj\Debug\QUnitSample.dll
+C:\Develop\QUnitSample\QUnitSample\obj\Debug\QUnitSample.pdb
